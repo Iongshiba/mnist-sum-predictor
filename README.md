@@ -24,6 +24,10 @@ By combining CNN for digit recognition with LSTM for sequence processing, this m
 - **CNN Backbone**: Responsible for recognizing each digit in the sequence.
 - **LSTM Head**: Processes the sequence of recognized digits and predicts their sum.
 
+<p align="center">
+  <img src="graphics/architecture.png" alt="Model Architecture"/>
+</p>
+
 **Training**: 
 - The model was trained on a custom dataset processed from the MNIST dataset, where each sequence consists of randomly selected digits and their corresponding sum as the label.
 
@@ -31,7 +35,12 @@ By combining CNN for digit recognition with LSTM for sequence processing, this m
 - The trained model achieved a **Mean Absolute Error (MAE) of 0.83828**, indicating the average error in predicting the sum of the digit sequences.
 
 <p align="center">
-  <img src="graphics/Screenshot.png" alt="Model Architecture"/>
+  <img src="graphics/plot.png" alt="Model Architecture"/>
 </p>
+
+<p align="center">
+  <img src="graphics/finaloutput.png" alt="Model Architecture"/>
+</p>
+
 
 

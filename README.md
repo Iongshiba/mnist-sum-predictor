@@ -34,10 +34,4 @@ By combining CNN for digit recognition with LSTM for sequence processing, this m
   <img src="graphics/Screenshot.png" alt="Model Architecture"/>
 </p>
 
-## Installation
-To get started with this project, follow these steps to clone the repository and install the required dependencies:
 
-```bash
-git clone https://github.com/yourusername/predicting-sums-from-handwritten-digits.git
-cd predicting-sums-from-handwritten-digits
-pip install -r requirements.txt

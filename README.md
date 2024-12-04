@@ -35,7 +35,7 @@ By combining CNN for digit recognition with LSTM for sequence processing, this m
 - The trained model achieved a **Mean Absolute Error (MAE) of 0.83828**, indicating the average error in predicting the sum of the digit sequences.
 
 <p align="center">
-  <img src="graphics/test.png" alt="Model Plot"/>
+  <img src="graphics/plot" alt="Model Plot"/>
 </p>
 
 - These are some predictions of the final model.

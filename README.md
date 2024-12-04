@@ -38,6 +38,8 @@ By combining CNN for digit recognition with LSTM for sequence processing, this m
   <img src="graphics/plot.png" alt="Model Architecture"/>
 </p>
 
+- These are some predictions of the final model.
+
 <p align="center">
   <img src="graphics/finaloutput.png" alt="Model Architecture"/>
 </p>
